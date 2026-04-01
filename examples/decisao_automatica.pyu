@@ -1,0 +1,16 @@
+// Teste de Lógica Pyrus v0.2
+var temp_atual = 85.5;
+var limite_seguranca = 80.0;
+
+print("Verificando integridade do sistema...");
+
+if (temp_atual > limite_seguranca) {
+    var alerta = "PERIGO: Temperatura acima do limite!";
+    print(alerta);
+    print("Iniciando resfriamento...");
+} else {
+    print("Sistema operando em níveis normais.");
+}
+
+var status = "Verificação concluída.";
+print(status);
