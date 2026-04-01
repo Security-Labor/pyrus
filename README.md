@@ -31,10 +31,12 @@ Pyrus requires the **Lark** parsing engine. Install it via terminal (Termux, CMD
 
 ```bash
 pip install lark
+```
 
 2. Your First Script (main.pyu)
 Create a file with the .pyu extension:
 // Pyrus Automation Example
+```bash
 var target = "192.168.1.1";
 var base_freq = 60;
 var multiplier = 1.5;
@@ -45,10 +47,13 @@ print("Target System:");
 print(target);
 print("Calibrated Frequency:");
 print(final_freq);
+```
 
 3. Running the Code
 Navigate to the src folder and execute:
+```bash
 python pyrus.py run ../examples/main.pyu
+```
 
 🗺️ Roadmap to \pi
  * [x] v0.0.0.0: Lexer/Parser Proof of Concept.
@@ -57,8 +62,11 @@ python pyrus.py run ../examples/main.pyu
  * [ ] v0.3.0.0: Loops (while, for) and List structures.
  * [ ] v0.5.0.0: Memory Ownership & Borrowing System.
  * [ ] v1.0.0.0: Native LLVM Backend Integration.
+
 🛡️ Security & Labor
 Pyrus is an open-source project maintained by the Security-Labor Foundation. We believe in tools that empower the user through transparency and performance.
+
  * Website: security-labor.github.io/pyrus
  * Organization: github.com/Security-Labor
+
 Developed in Alagoas, Brazil. 🇧🇷
