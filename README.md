@@ -1,22 +1,24 @@
-# 🏺 Pyrus Programming Language (v0.1.0.0 Alpha)
-
-[![Official
-
 <p align="center">
   <img src="banner.png" alt="Pyrus Banner" width="100%">
 </p>
 
 <p align="center">
+  <a href="https://security-labor.github.io/pyrus/">
     <img src="https://img.shields.io/badge/docs-security--labor.github.io%2Fpyrus-8b5cf6" alt="Official Docs">
+  </a>
+  <a href="https://opensource.org/licenses/MIT">
     <img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="License: MIT">
+  </a>
+  <a href="https://www.python.org/">
     <img src="https://img.shields.io/badge/python-3.8%2B-blue" alt="Python: 3.8+">
+  </a>
+  <a href="https://github.com/Security-Labor/Pyrus">
     <img src="https://img.shields.io/badge/status-pre--alpha-red" alt="Status: Pre-Alpha">
+  </a>
 </p>
 
- Docs](https://img.shields.io/badge/docs-security--labor.github.io%2Fpyrus-8b5cf6)](https://security-labor.github.io/pyrus/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Python: 3.8+](https://img.shields.io/badge/python-3.8%2B-blue)](https://www.python.org/)
-[![Status: Pre-Alpha](https://img.shields.io/badge/status-pre--alpha-red)](https://github.com/Security-Labor/Pyrus)
+# 🏺 Pyrus Programming Language (v0.1.0.0 Alpha)
+
 
 **Pyrus** is a systems-oriented programming language designed for engineers and automation experts. It bridges the gap between the rapid prototyping of Python and the strict, safe execution required for industrial and security applications.
 
