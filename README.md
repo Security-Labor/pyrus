@@ -1,6 +1,19 @@
 # 🏺 Pyrus Programming Language (v0.1.0.0 Alpha)
 
-[![Official Docs](https://img.shields.io/badge/docs-security--labor.github.io%2Fpyrus-8b5cf6)](https://security-labor.github.io/pyrus/)
+[![Official
+
+<p align="center">
+  <img src="./assets/banner.png" alt="Pyrus Banner" width="100%">
+</p>
+
+<p align="center">
+    <img src="https://img.shields.io/badge/docs-security--labor.github.io%2Fpyrus-8b5cf6" alt="Official Docs">
+    <img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="License: MIT">
+    <img src="https://img.shields.io/badge/python-3.8%2B-blue" alt="Python: 3.8+">
+    <img src="https://img.shields.io/badge/status-pre--alpha-red" alt="Status: Pre-Alpha">
+</p>
+
+ Docs](https://img.shields.io/badge/docs-security--labor.github.io%2Fpyrus-8b5cf6)](https://security-labor.github.io/pyrus/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Python: 3.8+](https://img.shields.io/badge/python-3.8%2B-blue)](https://www.python.org/)
 [![Status: Pre-Alpha](https://img.shields.io/badge/status-pre--alpha-red)](https://github.com/Security-Labor/Pyrus)
