@@ -83,8 +83,8 @@ python pyrus.py run ../examples/main.pyu
 **🛡️ Security & Labor**
 Pyrus é um projeto de código aberto mantido pela Security-Labor Foundation. Acreditamos em ferramentas que empoderam o usuário através de transparência e desempenho.
 
-**Website**: AAD-Systems.github.io/pyrus
+**Website**: [AAD-Systems.github.io/pyrus](https://aad-systems.github.io/pyrus/#home)
 
-**Organização**: github.com/AAD-Systems
+**Organização**: [github.com/AAD-Systems](github.com/AAD-Systems)
 
 **Desenvolvido em Alagoas, Brasil.🇧🇷**
