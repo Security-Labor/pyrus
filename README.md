@@ -81,7 +81,7 @@ python pyrus.py run ../examples/main.pyu
 🛡️ Security & Labor
 Pyrus is an open-source project maintained by the Security-Labor Foundation. We believe in tools that empower the user through transparency and performance.
 
- * Website: AAD-Systems.github.io/pyrus
+ * Website: [AAD-Systems.github.io/pyrus](https://aad-systems.github.io/pyrus/#home)
  * Organization: github.com/AAD-Sytems
 
 Developed in Alagoas, Brazil. 🇧🇷
